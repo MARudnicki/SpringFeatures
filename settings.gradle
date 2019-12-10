@@ -1,0 +1,3 @@
+rootProject.name = 'SpringFeatures'
+
+include '0SpringContainer', '1SpringWeb', '2Swagger', '3SpringData', '4SpringActuator'
