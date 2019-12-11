@@ -1,5 +1,9 @@
-### All of modules can be run using gradle wrapper
-# navigate to root of the module and run `./gradlew bootRun`
+## https://tiny.amazon.com/9xv7xxwd
+
+# All of modules can be run using gradle wrapper
+# navigate to root of the module and run
+**./gradlew bootRun**
+
 
 ### 1 spring container
 - why to use spring container
