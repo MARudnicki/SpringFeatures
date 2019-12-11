@@ -1,8 +1,7 @@
-## https://tiny.amazon.com/9xv7xxwd
+# https://tiny.amazon.com/9xv7xxwd
 
-# All of modules can be run using gradle wrapper
-# navigate to root of the module and run
-**./gradlew bootRun**
+### All of modules can be run using gradle wrapper. Navigate to root of the module and run
+## **./gradlew bootRun**
 
 
 ### 1 spring container
