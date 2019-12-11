@@ -1,6 +1,5 @@
-### all application can be run using gradle wrapper and spring boot plugin
-
-./gradlew bootRun
+### All of modules can be run using gradle wrapper
+# navigate to root of the module and run `./gradlew bootRun`
 
 ### 1 spring container
 - why to use spring container
@@ -31,10 +30,7 @@ health, info
 health check
 metrics
 
-
-
-
-# Used websides
+# Sides used in presentation
 https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#reference
 https://start.spring.io/
 https://swagger.io/
